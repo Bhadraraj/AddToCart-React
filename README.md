@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-<img src="images/image1.jpg" alt="Image Alt Text" width="500" height="300">
+<img src="images/flowerImg.jpeg" alt="Image Alt Text" width="500" height="300">
 
 
 
